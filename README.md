@@ -1,2 +1,2 @@
-# algo-cpp
-Practice implementations of fundamental algorithms in C++
+# DAA Practice (C++)
+A collection of C++ implementations for various algorithms and data structures.
