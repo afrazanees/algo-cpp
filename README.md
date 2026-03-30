@@ -6,3 +6,4 @@ A collection of C++ implementations for various algorithms and data structures.
 - `greedy/`: Greedy approaches including Fractional Knapsack and Job Sequencing.
 - `recursion/`: Simple recursion problems like Fibonacci and Factorial.
 - `searching/`: Implementations of Linear Search and Binary Search along with their invariant analysis.
+- `sorting/`: Common algorithms including Bubble, Selection, Insertion, Quick, Merge, and Heap Sort. Also contains comparative analysis files.
