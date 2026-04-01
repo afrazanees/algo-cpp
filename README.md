@@ -7,3 +7,4 @@ A collection of C++ implementations for various algorithms and data structures.
 - `recursion/`: Simple recursion problems like Fibonacci and Factorial.
 - `searching/`: Implementations of Linear Search and Binary Search along with their invariant analysis.
 - `sorting/`: Common algorithms including Bubble, Selection, Insertion, Quick, Merge, and Heap Sort. Also contains comparative analysis files.
+- `string_matching/`: String matching techniques including Brute Force and Naive approaches.
