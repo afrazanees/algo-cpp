@@ -16,3 +16,6 @@ Example:
 g++ sorting/bubble_sort.cpp -o bubble_sort
 ./bubble_sort
 ```
+
+## Purpose
+These programs were developed as part of my **course assignments and exercises** to learn and practice core DAA concepts in C++.
